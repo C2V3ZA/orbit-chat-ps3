@@ -1,0 +1,9 @@
+EXPORT(cellMicInit, 0x8325e02d);
+EXPORT(cellMicEnd, 0xc6328caa);
+EXPORT(cellMicOpenRaw, 0xa42ac07a);
+EXPORT(cellMicClose, 0x8d229f8e);
+EXPORT(cellMicStart, 0xdd724314);
+EXPORT(cellMicStop, 0xfcfaf246);
+EXPORT(cellMicReadRaw, 0x72165a7f);
+EXPORT(cellMicGetFormatRaw, 0x4e0b69ee);
+EXPORT(cellMicIsAttached, 0x1b42101b);

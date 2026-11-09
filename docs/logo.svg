@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+ <title>Orbit Chat — Sprechblase mit Nachrichtensignal</title>
+ <rect width="256" height="256" rx="60" fill="#090b0d"/>
+ <path d="M66 65h118a23 23 0 0 1 23 23v63a23 23 0 0 1-23 23h-68l-34 29v-29H66a23 23 0 0 1-23-23V88a23 23 0 0 1 23-23Z" fill="none" stroke="#f5f5f5" stroke-width="9" stroke-linejoin="round"/>
+ <g fill="#f5f5f5"><circle cx="87" cy="120" r="8"/><circle cx="125" cy="120" r="8"/><circle cx="163" cy="120" r="8"/></g>
+ <circle cx="200" cy="64" r="19" fill="#090b0d"/><circle cx="200" cy="64" r="11" fill="#27b8e8"/>
+</svg>
