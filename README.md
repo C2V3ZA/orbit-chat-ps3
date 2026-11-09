@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="docs/logo.svg" width="96" alt="Orbit logo">
 
@@ -23,8 +23,7 @@
   <img src="docs/screenshots/ui-call.png" width="49%" alt="Voice chat">
 </p>
 
-> 🌍 **Languages:** The app itself is currently **German only**. More languages are planned –
-> Orbit will pick the language automatically from your PS3 system settings.
+> 🌍 **Languages:** The app itself is currently **German only**. More languages are planned – Orbit will pick the language automatically from your PS3 system settings.
 
 ---
 
@@ -34,11 +33,12 @@
 
 **🚧 In aktiver Entwicklung – Orbit wächst. Die PS4 ist als Nächstes dran.**
 
-Orbit ist ein Homebrew-Chat für die PS3 mit Text- und Sprachchat. Konsolen verbinden sich direkt miteinander.
-Gruppen, Sprachchat und Verlauf liegen auf euren eigenen Konsolen, nicht auf fremden Servern.
+Orbit ist ein Homebrew-Chat für die PS3 mit Text- und Sprachchat. Konsolen verbinden sich direkt miteinander. Gruppen, Sprachchat und Verlauf liegen auf euren eigenen Konsolen, nicht auf fremden Servern.
+
 **Ein Code, und ihr seid verbunden.**
 
 ### ✨ Was Orbit kann
+
 - **Gruppen** wie bei Discord, jede mit eigenem Verlauf, Uhrzeiten und Ungelesen-Punkt
 - **Sprachchat** mit **SELECT**, Sprech-Anzeige mit grünem Ring, **R2** für stumm
 - **Einladung per 20-Zeichen-Code**. Tippfehler werden erkannt.
@@ -51,6 +51,7 @@ Gruppen, Sprachchat und Verlauf liegen auf euren eigenen Konsolen, nicht auf fre
 - **Ende-zu-Ende verschlüsselt** (TLS)
 
 ### ⚔️ Orbit vs. normaler PS3-Chat
+
 | | PS3-Chat (PSN) | Orbit |
 |---|---|---|
 | PSN-Konto nötig | ja | **nein** |
@@ -61,26 +62,48 @@ Gruppen, Sprachchat und Verlauf liegen auf euren eigenen Konsolen, nicht auf fre
 | Ende-zu-Ende verschlüsselt | nein | **ja** |
 
 ### ⚡ Schnellstart
+
 1. Die `.pkg` aus den **Releases** auf beiden PS3 installieren und Orbit starten.
 2. **✕** Gruppe erstellen → **△** → Code an deinen Freund schicken.
 3. Freund: **□** → Code eintippen. Fertig. **SELECT** = Sprachchat.
 
 ### 🎮 Tasten
-↑↓ Gruppe · ✕ Schreiben · SELECT Sprachchat · R2 Stumm · △ Einladen · □ Code eingeben · ○ Menü ·
-L1/R1 Blättern · R3 FPS · START Beenden
+
+↑↓ Gruppe · ✕ Schreiben · SELECT Sprachchat · R2 Stumm · △ Einladen · □ Code eingeben · ○ Menü · L1/R1 Blättern · R3 FPS · START Beenden
 
 ### ⚠️ Grenzen
+
 - Orbit muss auf der Gastgeber-PS3 **geöffnet** sein. Das XMB über die PS-Taste ist okay.
 - Auf der PS3 **kein Sprachchat im Spiel** und **kein Ton über den DualSense**.
 - Übers Internet wird der kostenlose Dienst **bore.pub** genutzt (ohne Garantie). Im WLAN klappt es immer.
 
 ### 🚀 Roadmap (geplant, noch nicht enthalten)
-- 🎮 **Orbit für PS4 (GoldHEN):** Cross-Chat PS3 ↔ PS4, Ton übers Controller-Headset, DualSense wird geprüft,
-  **Spiel-Übertragung** als Ziel
+
+- 🎮 **Orbit für PS4 (GoldHEN):** Cross-Chat PS3 ↔ PS4, Ton übers Controller-Headset, DualSense wird geprüft, **Spiel-Übertragung** als Ziel
 - 🌍 **Mehrere Sprachen** (Englisch, Französisch, Spanisch …), automatisch nach PS3-Systemsprache
 - 👤 **Profil anpassen:** Profilbild/Farben, Status, Bio, Lieblingsspiel
 - 🛰️ **Server anpassen:** eigener Server per **IP** oder **QR-Code**, mehrere Server, Ping-Anzeige
 - ✨ Reaktionen, Benachrichtigungen, Gruppen-Icons, Themes
+
+### 🤖 Entwicklung mit KI-Unterstützung
+
+Orbit ist ein unabhängiges Community-Projekt, das mit umfangreicher Unterstützung künstlicher Intelligenz (KI) entwickelt wird.
+
+KI-Tools werden während des gesamten Entwicklungsprozesses eingesetzt, unter anderem für:
+
+- Programmierung und Implementierung
+- Softwarearchitektur und technische Planung
+- Fehlersuche und Fehlerbehebung
+- Tests und Qualitätsverbesserungen
+- Benutzeroberfläche und Designideen
+- Dokumentation und Projektorganisation
+- Planung und Entwicklung neuer Funktionen
+
+Die Entwicklung basiert auf einer Kombination aus KI-Unterstützung, menschlicher Kreativität, eigenen Ideen, Entscheidungen, Tests und kontinuierlichen Verbesserungen.
+
+**Die Vision hinter Orbit ist es, die Kommunikation auf der PlayStation 3 wieder zugänglich zu machen – ohne PSN, ohne unnötige Einschränkungen und mit modernen Funktionen.**
+
+KI hilft dabei, diese Vision umzusetzen. Die Idee und die Richtung des Projekts kommen jedoch vom Projektinitiator.
 
 ---
 
@@ -90,11 +113,12 @@ L1/R1 Blättern · R3 FPS · START Beenden
 
 **🚧 In active development – Orbit keeps growing. PS4 is next.**
 
-Orbit is a homebrew chat app for PS3 with text and voice chat. Consoles connect directly to each other.
-Groups, voice chat and history live on your own consoles, not on someone else's servers.
+Orbit is a homebrew chat app for PS3 with text and voice chat. Consoles connect directly to each other. Groups, voice chat and history live on your own consoles, not on someone else's servers.
+
 **One code and you're connected.**
 
 ### ✨ Features
+
 - **Groups** like on Discord, each with its own history, timestamps and unread dot
 - **Voice chat** with **SELECT**, a green ring shows who is talking, **R2** to mute
 - **Invite with a 20-character code**. Typos are detected.
@@ -107,6 +131,7 @@ Groups, voice chat and history live on your own consoles, not on someone else's 
 - **End-to-end encrypted** (TLS)
 
 ### ⚔️ Orbit vs. the regular PS3 chat
+
 | | PS3 chat (PSN) | Orbit |
 |---|---|---|
 | PSN account required | yes | **no** |
@@ -117,26 +142,48 @@ Groups, voice chat and history live on your own consoles, not on someone else's 
 | End-to-end encrypted | no | **yes** |
 
 ### ⚡ Quick start
+
 1. Install the `.pkg` from **Releases** on both PS3s and start Orbit.
 2. **✕** create a group → **△** → send the code to your friend.
 3. Friend: **□** → type the code. Done. **SELECT** = voice chat.
 
 ### 🎮 Controls
-↑↓ group · ✕ write · SELECT voice chat · R2 mute · △ invite · □ enter code · ○ menu ·
-L1/R1 scroll · R3 FPS · START quit
+
+↑↓ group · ✕ write · SELECT voice chat · R2 mute · △ invite · □ enter code · ○ menu · L1/R1 scroll · R3 FPS · START quit
 
 ### ⚠️ Limitations
+
 - Orbit must be **open** on the host PS3. The XMB via the PS button is fine.
 - On PS3: **no voice chat in-game** and **no audio through the DualSense**.
 - Over the internet Orbit uses the free service **bore.pub** (no guarantee). On the same Wi-Fi it always works.
 
 ### 🚀 Roadmap (planned, not included yet)
-- 🎮 **Orbit for PS4 (GoldHEN):** PS3 ↔ PS4 cross-chat, audio through the controller headset, DualSense support
-  being evaluated, **game streaming** as a goal
+
+- 🎮 **Orbit for PS4 (GoldHEN):** PS3 ↔ PS4 cross-chat, audio through the controller headset, DualSense support being evaluated, **game streaming** as a goal
 - 🌍 **More languages** (English, French, Spanish …), picked automatically from the PS3 system language
 - 👤 **Profile customization:** picture/colors, status, bio, favorite game
 - 🛰️ **Server settings:** your own server via **IP** or **QR code**, multiple servers, ping display
 - ✨ Reactions, notifications, group icons, themes
+
+### 🤖 Developed with AI Assistance
+
+Orbit is an independent community project developed with extensive assistance from artificial intelligence (AI).
+
+AI tools are used throughout the development process to help with:
+
+- Programming and implementation
+- Software architecture and technical planning
+- Debugging and troubleshooting
+- Testing and quality improvements
+- User interface and design ideas
+- Documentation and project organization
+- Planning and developing new features
+
+The project combines AI-assisted development with human creativity, original ideas, decisions, testing and continuous improvements.
+
+**The vision behind Orbit is to make communication on the PlayStation 3 accessible again – without PSN, without unnecessary restrictions and with modern features.**
+
+AI helps bring this vision to life, while the project's original idea and direction come from its creator.
 
 ---
 
@@ -146,11 +193,12 @@ L1/R1 scroll · R3 FPS · START quit
 
 **🚧 En développement actif – Orbit continue de grandir. La PS4 est la prochaine étape.**
 
-Orbit est une application homebrew de chat pour PS3, avec chat texte et chat vocal. Les consoles se connectent
-directement entre elles. Les groupes, le chat vocal et l'historique restent sur vos propres consoles, pas sur des
-serveurs tiers. **Un code, et vous êtes connectés.**
+Orbit est une application homebrew de chat pour PS3, avec chat texte et chat vocal. Les consoles se connectent directement entre elles. Les groupes, le chat vocal et l'historique restent sur vos propres consoles, pas sur des serveurs tiers.
+
+**Un code, et vous êtes connectés.**
 
 ### ✨ Fonctionnalités
+
 - **Groupes** comme sur Discord, chacun avec son historique, l'heure des messages et un point « non lu »
 - **Chat vocal** avec **SELECT**, un anneau vert montre qui parle, **R2** pour couper le micro
 - **Invitation avec un code de 20 caractères**. Les fautes de frappe sont détectées.
@@ -163,6 +211,7 @@ serveurs tiers. **Un code, et vous êtes connectés.**
 - **Chiffrement de bout en bout** (TLS)
 
 ### ⚔️ Orbit vs. le chat PS3 classique
+
 | | Chat PS3 (PSN) | Orbit |
 |---|---|---|
 | Compte PSN requis | oui | **non** |
@@ -173,26 +222,48 @@ serveurs tiers. **Un code, et vous êtes connectés.**
 | Chiffré de bout en bout | non | **oui** |
 
 ### ⚡ Démarrage rapide
+
 1. Installez le `.pkg` des **Releases** sur les deux PS3 et lancez Orbit.
 2. **✕** créer un groupe → **△** → envoyez le code à votre ami.
 3. Ami : **□** → saisir le code. C'est tout. **SELECT** = chat vocal.
 
 ### 🎮 Commandes
-↑↓ groupe · ✕ écrire · SELECT chat vocal · R2 couper le micro · △ inviter · □ saisir un code · ○ menu ·
-L1/R1 défiler · R3 FPS · START quitter
+
+↑↓ groupe · ✕ écrire · SELECT chat vocal · R2 couper le micro · △ inviter · □ saisir un code · ○ menu · L1/R1 défiler · R3 FPS · START quitter
 
 ### ⚠️ Limites
+
 - Orbit doit être **ouvert** sur la PS3 hôte. Le XMB via la touche PS ne pose pas de problème.
 - Sur PS3 : **pas de chat vocal en jeu** et **pas de son dans la DualSense**.
 - Sur Internet, Orbit utilise le service gratuit **bore.pub** (sans garantie). En Wi-Fi local, ça marche toujours.
 
 ### 🚀 Feuille de route (prévu, pas encore inclus)
-- 🎮 **Orbit pour PS4 (GoldHEN) :** chat croisé PS3 ↔ PS4, son via le casque de la manette, prise en charge de la
-  DualSense à l'étude, **diffusion du jeu** comme objectif
+
+- 🎮 **Orbit pour PS4 (GoldHEN) :** chat croisé PS3 ↔ PS4, son via le casque de la manette, prise en charge de la DualSense à l'étude, **diffusion du jeu** comme objectif
 - 🌍 **Plusieurs langues** (anglais, français, espagnol …), choisies automatiquement selon la langue de la PS3
 - 👤 **Profil personnalisable :** photo/couleurs, statut, bio, jeu préféré
 - 🛰️ **Réglages serveur :** votre propre serveur par **IP** ou **QR code**, plusieurs serveurs, affichage du ping
 - ✨ Réactions, notifications, icônes de groupe, thèmes
+
+### 🤖 Développement avec l'aide de l'IA
+
+Orbit est un projet communautaire indépendant développé avec une aide importante de l'intelligence artificielle (IA).
+
+Les outils d'IA contribuent notamment à :
+
+- La programmation et l'implémentation
+- L'architecture logicielle et la planification technique
+- Le débogage et la résolution des problèmes
+- Les tests et l'amélioration de la qualité
+- L'interface utilisateur et les idées de design
+- La documentation et l'organisation du projet
+- La planification et le développement de nouvelles fonctionnalités
+
+Le projet associe l'aide de l'IA à la créativité humaine, aux idées originales, aux décisions, aux tests et aux améliorations continues.
+
+**La vision d'Orbit est de rendre la communication sur PlayStation 3 à nouveau accessible – sans PSN, sans restrictions inutiles et avec des fonctionnalités modernes.**
+
+L'IA contribue à concrétiser cette vision, tandis que l'idée originale et l'orientation du projet viennent de son créateur.
 
 ---
 
@@ -202,12 +273,13 @@ L1/R1 défiler · R3 FPS · START quitter
 
 **🚧 En desarrollo activo – Orbit sigue creciendo. La PS4 es lo siguiente.**
 
-Orbit es una aplicación homebrew de chat para PS3, con chat de texto y de voz. Las consolas se conectan
-directamente entre sí. Los grupos, el chat de voz y el historial quedan en vuestras propias consolas, no en
-servidores ajenos. **Un código y ya estáis conectados.**
+Orbit es una aplicación homebrew de chat para PS3, con chat de texto y de voz. Las consolas se conectan directamente entre sí. Los grupos, el chat de voz y el historial quedan en vuestras propias consolas, no en servidores ajenos.
+
+**Un código y ya estáis conectados.**
 
 ### ✨ Funciones
-- **Grupos** como en Discord, cada uno con su historial, hora de los mensajes y punto de « no leído »
+
+- **Grupos** como en Discord, cada uno con su historial, hora de los mensajes y punto de «no leído»
 - **Chat de voz** con **SELECT**, un anillo verde muestra quién habla, **R2** para silenciar
 - **Invitación con un código de 20 caracteres**. Se detectan los errores de escritura.
 - **Sin cuenta, sin contraseña**. Solo hay que confirmar el nombre al iniciar por primera vez.
@@ -219,6 +291,7 @@ servidores ajenos. **Un código y ya estáis conectados.**
 - **Cifrado de extremo a extremo** (TLS)
 
 ### ⚔️ Orbit vs. el chat normal de PS3
+
 | | Chat de PS3 (PSN) | Orbit |
 |---|---|---|
 | Cuenta PSN necesaria | sí | **no** |
@@ -229,34 +302,56 @@ servidores ajenos. **Un código y ya estáis conectados.**
 | Cifrado de extremo a extremo | no | **sí** |
 
 ### ⚡ Inicio rápido
+
 1. Instala el `.pkg` de **Releases** en las dos PS3 e inicia Orbit.
 2. **✕** crear grupo → **△** → envía el código a tu amigo.
 3. Amigo: **□** → escribe el código. Listo. **SELECT** = chat de voz.
 
 ### 🎮 Controles
-↑↓ grupo · ✕ escribir · SELECT chat de voz · R2 silenciar · △ invitar · □ introducir código · ○ menú ·
-L1/R1 desplazarse · R3 FPS · START salir
+
+↑↓ grupo · ✕ escribir · SELECT chat de voz · R2 silenciar · △ invitar · □ introducir código · ○ menú · L1/R1 desplazarse · R3 FPS · START salir
 
 ### ⚠️ Limitaciones
+
 - Orbit debe estar **abierto** en la PS3 anfitriona. El XMB con el botón PS no es problema.
 - En PS3: **sin chat de voz dentro de los juegos** y **sin sonido por el DualSense**.
 - Por Internet, Orbit usa el servicio gratuito **bore.pub** (sin garantía). En la misma Wi-Fi siempre funciona.
 
 ### 🚀 Hoja de ruta (planeado, aún no incluido)
-- 🎮 **Orbit para PS4 (GoldHEN):** chat cruzado PS3 ↔ PS4, sonido por los auriculares del mando, soporte para
-  DualSense en estudio, **transmisión de juego** como objetivo
+
+- 🎮 **Orbit para PS4 (GoldHEN):** chat cruzado PS3 ↔ PS4, sonido por los auriculares del mando, soporte para DualSense en estudio, **transmisión de juego** como objetivo
 - 🌍 **Más idiomas** (inglés, francés, español …), elegidos automáticamente según el idioma de la PS3
 - 👤 **Perfil personalizable:** foto/colores, estado, bio, juego favorito
 - 🛰️ **Ajustes de servidor:** tu propio servidor por **IP** o **código QR**, varios servidores, indicador de ping
 - ✨ Reacciones, notificaciones, iconos de grupo, temas
 
+### 🤖 Desarrollo con asistencia de IA
+
+Orbit es un proyecto comunitario independiente desarrollado con una amplia ayuda de la inteligencia artificial (IA).
+
+Las herramientas de IA se utilizan durante el proceso de desarrollo para ayudar con:
+
+- Programación e implementación
+- Arquitectura de software y planificación técnica
+- Depuración y resolución de errores
+- Pruebas y mejoras de calidad
+- Interfaz de usuario e ideas de diseño
+- Documentación y organización del proyecto
+- Planificación y desarrollo de nuevas funciones
+
+El proyecto combina la asistencia de IA con creatividad humana, ideas originales, decisiones, pruebas y mejoras continuas.
+
+**La visión de Orbit es volver a hacer accesible la comunicación en PlayStation 3 – sin PSN, sin restricciones innecesarias y con funciones modernas.**
+
+La IA ayuda a hacer realidad esta visión, mientras que la idea original y la dirección del proyecto proceden de su creador.
+
 ---
 
 ## 🛠️ Building from source
 
-Requirements: Linux or WSL, the [ps3dev](https://github.com/ps3dev/ps3dev) toolchain with PSL1GHT and the
-portlibs (FreeType, libpng, zlib, mbedTLS), Python 3. By default the Makefile expects the toolchain in
-`../build-tools/ps3dev` and mbedTLS 2.28 in `../build-tools/mbedtls-2.28.10`. Set `PS3DEV` to use another location.
+Requirements: Linux or WSL, the [ps3dev](https://github.com/ps3dev/ps3dev) toolchain with PSL1GHT and the portlibs (FreeType, libpng, zlib, mbedTLS), Python 3.
+
+By default the Makefile expects the toolchain in `../build-tools/ps3dev` and mbedTLS 2.28 in `../build-tools/mbedtls-2.28.10`. Set `PS3DEV` to use another location.
 
 ```bash
 make ps3                    # build/orbit.elf
@@ -267,10 +362,10 @@ bash tools/test_tunnel.sh   # full app test through the built-in tunnel (local b
 bash tools/test_nat.sh      # router opening (UPnP, PCP, CGNAT, FRITZ!Box) against a simulated router
 ```
 
-Optional: put an address into `relay.txt` (for example `203.0.113.5`) before packaging to ship a default
-relay. The relay server is in `relay/` (`orbit_relay.py`, standard library only; `install.sh` for Linux servers).
+Optional: put an address into `relay.txt` (for example `203.0.113.5`) before packaging to ship a default relay. The relay server is in `relay/` (`orbit_relay.py`, standard library only; `install.sh` for Linux servers).
 
 ### Project structure
+
 | Path | Contents |
 |---|---|
 | `src/` | App core, renderer, network, voice, tunnel, relay client, PS3 main loop |
@@ -283,12 +378,9 @@ relay. The relay server is in `relay/` (`orbit_relay.py`, standard library only;
 
 ## 📄 License
 
-Orbit is licensed under **GPL-3.0-or-later** (see [LICENSE](LICENSE)). It includes code from PSL1GHT samples
-(GPL-3.0) and third-party libraries listed in [THIRD-PARTY.md](THIRD-PARTY.md).
+Orbit is licensed under **GPL-3.0-or-later** (see [LICENSE](LICENSE)). It includes code from PSL1GHT samples (GPL-3.0) and third-party libraries listed in [THIRD-PARTY.md](THIRD-PARTY.md).
 
-Orbit is an independent homebrew project and is **not affiliated with or endorsed by Sony Interactive
-Entertainment**. "PlayStation", "PS3", "PS4", "PS5", "DualSense" and the button symbols are trademarks of their
-respective owners; Orbit only draws its own versions of the symbols.
+Orbit is an independent homebrew project and is **not affiliated with or endorsed by Sony Interactive Entertainment**. "PlayStation", "PS3", "PS4", "PS5", "DualSense" and the button symbols are trademarks of their respective owners; Orbit only draws its own versions of the symbols.
 
 <div align="center">
 
